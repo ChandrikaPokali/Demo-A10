@@ -8,5 +8,6 @@ public class GitPractice2 {
 	public void m2() {
 	System.out.println("hello");
 	System.out.println("Pushing through branch"); 
+	System.out.println("Pushing through ATE");
 	}
 }
